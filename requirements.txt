@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+flask-bcrypt 
+Flask-JWT-Extended
+werkzeug
+flask-login
+python-dotenv
